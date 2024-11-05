@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inuguusu.github.io/CJr/sitemap_index.txt
+Sitemap: https://inuguusu.github.io/Dds/sitemap_index.txt
+Sitemap: https://inuguusu.github.io/cSe/sitemap_index.txt
+Sitemap: https://inuguusu.github.io/yFI/sitemap_index.txt
